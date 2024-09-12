@@ -1,0 +1,10 @@
+Parameter --out-layer1=(538) --out-layer2=(596) --batchsize=(44) --epochs=(7)
+RESULT: 1.497768 
+Parameter --out-layer1=(567) --out-layer2=(571) --batchsize=(42) --epochs=(10)
+RESULT: 1.382774 
+Parameter --out-layer1=(493) --out-layer2=(589) --batchsize=(46) --epochs=(6)
+RESULT: 1.597561 
+Parameter --out-layer1=(541) --out-layer2=(401) --batchsize=(48) --epochs=(5)
+RESULT: 1.678312 
+Parameter --out-layer1=(443) --out-layer2=(572) --batchsize=(56) --epochs=(9)
+RESULT: 1.463521 
